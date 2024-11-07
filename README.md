@@ -12,7 +12,7 @@ I'm Embedded Software Engineer.<br>I'm interesested in Robotics,IOT,AI/ML,<br>I'
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yassinegannoune&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinegannoune&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
